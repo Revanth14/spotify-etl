@@ -15,13 +15,13 @@ The project extracts diverse data from the Spotify API, including artists, album
 7.	Python
 
 ## Project Flow
-1.Integrating with Spotify API and extracting Data using Python
-2.Deploying code on AWS Lambda for Data Extraction
-3.Adding trigger to run the Lambda function for extraction automatically
-4.Writing transformation function
-5.Building automated trigger on transformation function
-6.Store files on S3 properly
-7.Building Analytics Tables on data files using Glue and Athena
+1. Integrating with Spotify API and extracting Data using Python.
+2. Deploying code on AWS Lambda for Data Extraction.
+3. Adding trigger to run the Lambda function for extraction automatically.
+4. Writing transformation function.
+5. Building automated trigger on transformation function
+6. Store files on S3 properly
+7. Building Analytics Tables on data files using Glue and Athena
 
 ## Packages used
 1. pip install pandas
